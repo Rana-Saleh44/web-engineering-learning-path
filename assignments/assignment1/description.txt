@@ -1,0 +1,9 @@
+[Bonus Assignment] Create an HTML registration form with CSS formatting based on a given design.
+You are tasked with developing an HTML registration form with accompanying CSS styling based on a provided design. The form should include various input fields commonly found in registration forms, such as text inputs, email, password, date, select (dropdown), file upload, textarea, and checkbox. The design specifies a blue color palette for the form elements and headings, with a white background for the form itself.
+Implement an HTML document (index.html) containing the registration form.Utilize appropriate HTML tags and attributes for form elements.Ensure all mandatory fields are marked as required.Develop a separate CSS file (styles.css) for styling the registration form.Apply CSS rules to achieve the specified design, including colors, fonts, margins, paddings, borders, and form element styles.Use the RoyalBlue color (#4169e1) for headings and form labels, and DodgerBlue (#1e90ff) for hover effects on submit button.The form should have a white background with a subtle box-shadow effect.The form elements should have appropriate styling for readability and user interaction.
+
+Submit your completed index.html and styles.css files in a zip file
+Consider using CSS best practices for maintainability and readability.
+Test the form's responsiveness and compatibility across different devices and screen sizes.
+Ensure the form follows accessibility guidelines for users with disabilities.
+Your HTML code should be well-structured and semantically meaningful.
